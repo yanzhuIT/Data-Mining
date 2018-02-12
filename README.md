@@ -1,4 +1,5 @@
 # Data Mining
+## Record the complete Hadoop configuration process on AWS
 - Working Environment: AWS (Amazon Web Service) EC2 + Hadoop + MapReduce
 - Mining Algorithm: Association Rules Mining based on Apriori
 - Programming Language: Java
